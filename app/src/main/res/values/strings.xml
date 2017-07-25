@@ -1,0 +1,12 @@
+<!--
+  ~ Copyright (c) 2016. All Rights Reserved.
+  -->
+
+<resources>
+    <string name="app_name">App Widget Demo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

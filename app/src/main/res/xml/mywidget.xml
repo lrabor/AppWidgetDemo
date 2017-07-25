@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2016. All Rights Reserved.
+  -->
+
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/activity_main"
+    android:minHeight="240dp"
+    android:minWidth="240dp"
+    android:previewImage="@drawable/sms_icon"
+    android:updatePeriodMillis="0">
+</appwidget-provider>
